@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+clf_domains/others
+data/others
+data_analysis/others
+data_generation/api_key.txt
+data_process/others
+ml_evaluation/others
+models
+tools/others
