@@ -1,4 +1,4 @@
-data_generation/
+/data_generation
 ===================
 Script and notebooks for generating synthetic data.
 

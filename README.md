@@ -1,8 +1,8 @@
 # Cecilia_Kuan_data_augmentation
-# Data Augmentation for Pre-Trained Clinical NLP System
-## Master's Degree in "*Linguistics: Text Mining*", VU Amsterdam.
 
-This repository contains the code implemented for the Master's Thesis Project "*Generative Approach of Data Augmentation for Pre-Trained Clinical NLP System*".
+This repository contains the code implemented for the Master's Thesis Project "**Generative Approach of Data Augmentation for Pre-Trained Clinical NLP System**".
+
+Master's Degree: "*Linguistics: Text Mining*", VU Amsterdam\
 Thesis author: Cecilia Kuan\
 Supervisor: Dr. Piek Vossen
 
