@@ -1,0 +1,256 @@
+output for: b455,0,fysiotherapeut,vrouw,18-40,fysiotherapie
+1|De patiënt kan alleen liggende activiteiten verrichten.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+2|De inspanningstolerantie van de patiënt is extreem laag. Slechts liggende activiteiten zijn fysiek draagbaar.|0.9|b455|0|fysiotherapeut|vrouw|41-60|fysiotherapie
+3|De patiënt heeft een totale stoornis in de inspanningstolerantie volgens ICF-b455 niveau.|0.7|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+4|Het is momenteel niet haalbaar voor de patiënt om activiteiten uit te voeren met meer dan één MET-score (MET < 1).|0.8|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+5|Deze patiënt kan alleen activiteiten uitvoeren terwijl ze op hun rug liggen.|0.9|b455|0|fysiotherapeut|man|41-60|fysiotherapie
+6|De inspanningstolerantie van de patiënt is extreem suboptimaal want alleen volledige rust kan makkelijk worden verdragen.|0.7|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+7|Alleen liggende lichamelijke activiteiten zijn haalbaar voor deze patiënt.|0.8|b455|0|fysiotherapeut|man|41-60|fysiotherapie
+8|ICF-categorie b455-niveau geeft aan dat de inspanningstolerantie van deze patiënt extreem laag is,waarbij alleen liggende activiteiten haalbaar zijn.|0.9|b455|0|fysiotherapeut|vrouw|41-60|fysiotherapie
+9|De patiënt voelt extreme vermoeidheid bij staande of zittende activiteiten.|0.7|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+10|De patiënt kan zichzelf alleen rechtop in bed hijsen,de enige fysieke activiteit die uitgevoerd kan worden.|0.8|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+11|Inspannende activiteiten worden niet verdragen door deze patiënt,alleen liggende activiteiten kunnen worden uitgevoerd.|0.9|b455|0|fysiotherapeut|man|41-60|fysiotherapie
+12|Beweegfactoren kunnen een verslechtering van de symptomen van deze patiënt veroorzaken,zij kunnen alleen in een liggende positie blijven.|0.7|b455|0|fysiotherapeut|vrouw|41-60|fysiotherapie
+13|Alleen activiteiten die liggend uitgevoerd kunnen worden,staan op het menu voor deze patiënt.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+14|De patiënt heeft een stoornis in de inspanningstolerantie volgens ICF-b455 niveau.|0.9|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+15|De originele inspanningstolerantie van deze patiënt is extreem laag,liggende activiteiten zijn de enige activiteiten die ze kunnen doen.|0.7|b455|0|fysiotherapeut|man|41-60|fysiotherapie
+output for: b455,0,fysiotherapeut,man,18-40,fysiotherapie
+1|Patiënt kan alleen liggende activiteiten uitvoeren.|0.8|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+2|Inspanningstolerantie is heel laag,patiënt kan alleen rustende activiteiten uitvoeren.|0.7|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+3|Patiënt rapporteert alleen een verdraagzaamheid in rustposities.|0.9|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+4|Patiënt rapporteert een verdraagzaamheid voor liggende activiteiten.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+5|Zelfs licht aanvoelende activiteiten kunnen de patiënt problemen en ongemak veroorzaken.|0.75|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+6|Patiënt heeft een zeer lage inspanningstolerantie,alleen liggende activiteiten zijn haalbaar zonder problemen te ervaren.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+7|Het lijkt erop dat de patiënt weinig verdraagzaamheid heeft voor activiteiten buiten rustposities.|0.85|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+8|Patiënt rapporteert geen tolerantie voor actieve beweging en geeft de voorkeur aan inactief of liggend zijn.|0.7|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+9|Gezien de conditie van de patiënt,is de inspanningstolerantie zeer laag.|0.9|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+10|Patiënt heeft moeite tolerantie voor zelfs fysieke basisbewegingen.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+11|Liggende activiteiten zijn momenteel de enige haalbare opties voor de patiënt.|0.85|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+12|Er is momenteel geen tolerantie voor zelfs minimale fysieke activiteiten.|0.9|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+13|Vermoeidheid en kortademigheid nemen toe bij de minste vorm van activiteit bij de patiënt.|0.75|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+14|Voorlopig kan de patiënt de activiteit nauwelijks langer dan vijf minuten volhouden.|0.8|b455|0|fysiotherapeut|man|18-40|fysiotherapie
+15|De inspanningstolerantie van de patiënt is extreem laag,alleen beperkt tot liggende activiteiten.|0.9|b455|0|fysiotherapeut|vrouw|18-40|fysiotherapie
+output for: b455,0,fysiotherapeut,vrouw,40-65,fysiotherapie
+1|Patiënte kan slechts liggende activiteiten uitvoeren. |0.9|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+2|De patiënte kan zich alleen in liggende positie verplaatsen. |0.8|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+3|De patiënte heeft de kracht niet om op te staan uit bed. |0.7|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+4|Bewegingen van de patiënte zijn beperkt tot liggen. |0.8|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+5|Zwakte van de patiënte staat enig ander activiteit dan liggende bewegingen in weg. |0.7|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+6|Patiënte ervaart zodanig beperkte mobiliteit dat het nauwelijks mogelijk is om haar te verplaatsen. |0.8|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+7|Alle bewegingen van de patiënte gebeuren vanuit haar bed. |0.9|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+8|Liggend transport is de enige optie voor vervoeren van de patiënte. |0.7|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+9|De patiënte kan nog juist enige bewegingen uitvoeren zonder op te staan. |0.6|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+10|Liggen is de enige fysieke activiteit die de patiënt comfortabel kan uitvoeren. |0.9|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+11|Patiënte heeft een zeer laag activiteitenniveau. |0.8|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+12|Alle activiteiten uitvoeren komt momenteel niet in betrouwbare mogelijkheden van de patiënte. |0.6|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+13|De laagst mogelijke inspanningen zijn nog steeds een uitdaging voor de patiënt.|0.8|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+14|Patiënte treft enkel liggend de gekarakteriseerde inspanning. |0.7|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+15|Bep-e-v ermittelen bewegings scope bij de Patiënt,niet mogelijk. |0.5|b455|0|fysiotherapeut|vrouw|40-65|fysiotherapie
+output for: b455,0,fysiotherapeut,man,40-65,fysiotherapie
+1|Kan alleen liggende activiteiten aan|hoge betrouwbaarheid|b455|0|Fysiotherapeut|M|40-65|Fysiotherapie
+2|Liggend op bed blijft de enige optie|redelijk hoge betrouwbaarheid|b455|0|Therapeut|M|40-65|Behandeling
+3|In elk gematigd fysiek transportsysteem verslechtert de patiënt - rolstoel is geïndiceerd|betrouwbaar|b455|0|Fysiotherapeut|M|40-65|Behandelsessie
+4|De patiënt heeft een zeer arme lichaamshouding,kan nauwelijks zitten zonder hulp|hoog|b455|0|Trainer|M|40-65|Fysiotherapie
+5|De algehele mobiliteit van de patiënt is extreem laag|gemiddelde betrouwbaarheid|b455|0|Fysiotherapeut|M|40-65|Intellectuele EI/TRS
+6|Verplaatsen van het bed is niet mogelijk,patiënt kan zich nauwelijks verplaatsen|hoge betrouwbaarheid|b455|0|Trainer|V|40-65|Fysiotherapie
+7|De patiënt kan slechts enkele stappen nemen|hoge betrouwbaarheid|b455|0|Fysiotherapeut|V|40-65|Krachtttraining
+8|Met behulp van ondersteuning kan de patiënt enkele stappen nemen betrouwbaar|b455|0|Fysiotherapeut|M|40-65|Behandeling met steun
+9|Zelfstandig opstaan uit zitten en liggen is praktisch onmogelijk|betrouwbaar|b455|0|Trainer|M|40-65|Fysiotherapie
+10|Na enkele stappen stijgt de hartslag van de patiënt snel tot gevaarlijke niveaus|hoog|b455|0|Fysiotherapeut|M|40-65|Fitnessles
+11|Zelfs eenvoudige bewegingen zoals zreiben en uitstrekken zorgen voor merkbare vermoeidheid|hoge betrouwbaarheid|b455|0|Trainer|V|40-65|Fysiotherapie
+12|De patiënt vermijdt elke beweging omdat hij snel buiten adem raakt|hoge betrouwbaarheid|b455|0|Fysiotherapeut|M|40-65|Paleisgymnastiek
+13|Zitten en staan voor langere periodes is onmogelijk,de patiënt moet asymmetrisch op het bed blijven liggen|betrouwbaar|b455|0|Trainer|V|40-65|Fysiotherapie
+14|Zodra de patiënt beweegt,neemt het gebrek aan inspanningstolerantie snel toe in alle fysieke systemen|betrouwbaar|b455|0|Fysiotherapeut|M|40-65|Behandeling
+15|De patiënt is niet in staat om stevig vast te houden aan fysiek omarmende activiteiten|hoge betrouwbaarheid|b455|0|Therapeut|M|40-65|Fysiek herstel programma.
+output for: b455,0,fysiotherapeut,vrouw,65-80,fysiotherapie
+1|De patiënt kan alleen liggende activiteiten uitvoeren.|0.85|b455|0|fysiotherapeut|vrouw|35-50|fysiotherapie
+2|Inspanning is voor de patiënt niet mogelijk boven liggen.|0.9|b455|0|fysiotherapeut|man|18-34|fysiotherapie
+3|De patiënt heeft geen enkele inspanningstolerantie.|0.75|b455|0|fysiotherapeut|vrouw|50-64|fysiotherapie
+4|De patiënt ervaart alleen pijn en discomfort bij het uitvoeren van enige fysieke activiteiten en dientengevolge kan de inspanningstolerantie als extreem laag worden beoordeeld.|0.95|b455|0|fysiotherapeut|man|35-50|fysiotherapie
+5|De patiënt kan fysiek nauwelijks meer dan liggen verdragen bij het uitvoeren van activiteiten.|0.8|b455|0|fysiotherapeut|vrouw|65-80|fysiotherapie
+6|De inspanningstolerantie van de patiënt is extreem laag en er kan geen enige activiteit zonder fysieke vermoeidheid worden uitgevoerd.|0.9|b455|0|fysiotherapeut|vrouw|18-34|fysiotherapie
+7|Patiënt kan alleen plat liggen zonder fysiek uitgeput te raken.|0.8|b455|0|fysiotherapeut|man|50-64|fysiotherapie
+8|De inspanningstolerantie van de patiënt is zo extreem laag dat enige fysieke activiteit meteen leidt tot ondraaglijke vermoeidheid.|0.9|b455|0|fysiotherapeut|vrouw|35-50|fysiotherapie
+9|Patiënt heeft alleen in liggende positie bijna nul inspanningstolerantie.|0.75|b455|0|fysiotherapeut|vrouw|65-80|fysiotherapie
+10|De beperkte inspanningstolerantie van de patiënt geeft ons reden tot uiting van zorgen.|0.8|b455|0|fysiotherapeut|man|18-34|fysiotherapie
+11|Patiënten eenheden die meer beweging zouden vereisen zijn voor patiënt momenteel niet aan te raden.|0.85|b455|0|fysiotherapeut|vrouw|50-64|fysiotherapie
+12|Alle mate van fysieke activiteit vereist meer beweging dan de patiënt momenteel aankan.|0.9|b455|0|fysiotherapeut|man|35-50|fysiotherapie
+13|Patiënt kan zich alleen bewegen met maximaal comfort bij elke activiteit waarbij de patiënt alleen in de liggende positie blijft.|0.85|b455|0|fysiotherapeut|vrouw|18-34|fysiotherapie
+14|De beperkte inspanningstolerantie geeft aan dat patiënt veilige en beperkte fysieke activiteiten moet uitvoeren.|0.8|b455|0|fysiotherapeut|man|50-64|fysiotherapie
+15|Enige activiteit moet op dit moment sterk beperkt blijven en fysiotherapie zal zich met volle toewijding bezighouden met het verbeteren van inspanningstolerantie.|0.95|b455|0|fysiotherapeut|vrouw|35-50|fysiotherapie   
+output for: b455,0,fysiotherapeut,man,65-80,fysiotherapie
+1|Patroon van sedentair gedrag waargenomen,zelfs liggende activiteiten worden al snel vermoeiend|0.8|b455|0|fysiotherapeut|man|65-80|fysiotherapie
+2|Inspanningstolerantie van patiënt is extreem laag|0.9|b455|0|fysiotherapeut|vrouw|18-35|fysiotherapie
+3|Liggende basisactiviteiten zijn de enige activiteiten aangewezen voor medewerking|0.7|b455|0|fysiotherapeut|man|80-99|fysiotherapie
+4|Patiënt kalmeert tijdens het uitvoeren van activiteiten,in overeenstemming met b455-niveau 0|0.6|b455|0|fysiotherapeut|vrouw|45-64|fysiotherapie
+5|Pijn en vermoeidheid beginnen op te treden tijdens liggende activiteiten|0.8|b455|0|fysiotherapeut|vrouw|18-35|fysiotherapie
+6|Overweldigende vermoeidheid bij patiënt|0.9|b455|0|fysiotherapeut|man|18-35|fysiotherapie
+7|Slaapapneu beïnvloedt de inspanningstolerantie van de patiënt|0.6|b455|0|fysiotherapeut|man|45-64|fysiotherapie
+8|Uitvoeren van liggende activiteiten is de enige optie voor patiënt vanwege het b455 niveau|0.7|b455|0|fysiotherapeut|vrouw|80-99|fysiotherapie
+9|Patiënt vertoont een aanzienlijk laag activiteitenniveau in verhouding tot zijn leeftijdsgenoten|0.8|b455|0|fysiotherapeut|man|45-64|fysiotherapie
+10|Patiënt rapporteert extreme vermoeidheid en gebrek aan energie bij het uitvoeren van activiteiten|0.9|b455|0|fysiotherapeut|vrouw|18-35|fysiotherapie
+11|Lopen of wandelen voor zelfs korte afstanden is een uitdaging voor de patiënt vanwege zijn lage inspanningstolerantie|0.7|b455|0|fysiotherapeut|man|80-99|fysiotherapie
+12|Gezondheidstoestand beperkt patiënt tot alleen zitten en liggende activiteiten|0.6|b455|0|fysiotherapeut|man|18-35|fysiotherapie
+13|Inspanning dicht bij niveau b455 - extreem lage inspanningsvermogen is fysiek onmogelijk voor patiënt|0.8|b455|0|fysiotherapeut|vrouw|45-64|fysiotherapie
+14|Patiënt rapporteert algemene zwakte in het lichaam en starheid bij het uitvoeren van activiteiten|0.9|b455|0|fysiotherapeut|vrouw|18-35|fysiotherapie
+15|Reflectieve,rustige activiteiten zijn het meest haalbaar voor patiënt|0.7|b455|0|fysiotherapeut|man|65-80|fysiotherapie
+output for: b455,0,fysiotherapeut,vrouw,80 up,fysiotherapie
+1|Patiënt heeft moeite om zelfs maar een klein stukje te lopen. |0.6|b455|0|Fysiotherapeut|Vrouw|80 up|Fysiotherapie
+2|Patiënt kan niet fietsen of traplopen als gevolg van vermoeidheid. |0.7|b455|0|Fysiotherapeut|Man|50-70|Fysiotherapie 
+3|Er is alleen een zeer kortdurende en lichte inspanning van Patiënt mogelijk,voor uitgebreidere inspanning is de patiënt direct kortademig en moe. |0.8|b455|0|Fysiotherapeut|Vrouw|18-29|Fysiotherapie 
+4|Patiënt kan geen markante inspanningsactiviteiten meer ondernemen. |0.8|b455|0|Fysiotherapeut|Man|70-80|Fysiotherapie 
+5|Patiënt heeft  nauwelijk fysieke belastbaarheid,zelfs dagelijkse activiteiten vereisen veel energie. |0.6|b455|0|Fysiotherapeut|Vrouw|30-49|Fysiotherapie 
+6|Patiënt kan zich niet lang actief verplaatsen. |0.9|b455|0|Fysiotherapeut|Man|50-70|Fysiotherapie
+7|Inspanningsmodaliteiten zijn niet mogelijk voor Patiënt,alles moet in een zeer traag tempo gebeuren. |0.8|b455|0|Fysiotherapeut|Vrouw|18-29|Fysiotherapie 
+8|Patiënt kan alleen liggen vanwege de intensiteit van haar pijn. |0.9|b455|0|Fysiotherapeut|Vrouw|18-29|Fysiotherapie 
+9|Het lukt Patiënt niet om stukken te lopen,dus zitten is noodzakelijk. |0.7|b455|0|Fysiotherapeut|Man|50-70|Fysiotherapie 
+10|Patiënt kan geen fysiek taken uitvoeren,niet huishoudelijke of vitale klussen|0.8|b455|0|Fysiotherapeut|Vrouw|30-49|Fysiotherapie 
+11|Patiënt raakt daarna snel uitgeput en moet rusten. |0.6|b455|0|Fysiotherapeut|Man|70-80|Fysiotherapie 
+12|Patiënt kan geen consequent en zinvolle inspanningen uitvoeren. |0.9|b455|0|Fysiotherapeut|Vrouw|30-49|Fysiotherapie 
+13|Patiënt is niet in staat om langere trips of activiteiten te plannen. |0.8|b455|0|Fysiotherapeut|Man|50-70|Fysiotherapie 
+14|Patiënt kan zijn/haar dagelijks activiteiten niet verrichten zonder buitensporige gevoelens van inspanning en vermoeidheid. |0.9|b455|0|Fysiotherapeut|Vrouw|18-29|Fysiotherapie 
+15|Patiënt kan geen substantiële fysieke inspanning bereiken en rust voortdurend. |0.7|b455|0|Fysiotherapeut|Man|70-80|Fysiotherapie
+output for: b455,0,fysiotherapeut,man,80 up,fysiotherapie
+1|Patiënt kan alleen in liggende positie blijven        |0.95|b455|0|fysiotherapeut|man|80 up|fysiotherapie
+2|Zelfs een kleine inspanning zorgt voor kortademigheid |0.85|b455|0|fysiotherapeut|man|80 up|fysiotherapie
+3|De patiënt kan zijn handen nauwelijks bewegen        |0.90|b455|0|fysiotherapeut|vrouw|18-80|fysiotherapie
+4|De patiënt kan niet langer dan 10 minuten staan      |0.80|b455|0|fysiotherapeut|man|18-45|fysiotherapie
+5|Klimmen van trappen is absoluut niet mogelijk        |0.95|b455|0|fysiotherapeut|vrouw|45-60|fysiotherapie
+6|Kleine inspanning vraagt aanzienlijk herstel tijd      |0.85|b455|0|fysiotherapeut|man|45-60|fysiotherapie
+7|De patiënt kan zich niet wassen zonder hulp         |0.90|b455|0|fysiotherapeut|vrouw|18-80|fysiotherapie
+8|De patiënt moet in een rolstoel worden vervoerd      |0.95|b455|0|fysiotherapeut|man|80 up|fysiotherapie
+9|Zelfs een kleine rit met de auto is een zware klus   |0.85|b455|0|fysiotherapeut|vrouw|45-60|fysiotherapie
+10|Kleine inspanning veroorzaakt duizeligheid en misselijkheid|0.80|b455|0|fysiotherapeut|man|18-45|fysiotherapie
+11|Patiënt zou bijna flauwvallen tijdens het staan      |0.90|b455|0|fysiotherapeut|vrouw|45-60|fysiotherapie
+12|Spierzwakheid beperkt alle mogelijke inspanningen   |0.95|b455|0|fysiotherapeut|vrouw|18-80|fysiotherapie
+13|Zittend werken is maximaal 30 minuten mogelijk      |0.85|b455|0|fysiotherapeut|man|80 up|fysiotherapie
+14|Zelfzorg taken kunnen niet worden uitgevoerd       |0.90|b455|0|fysiotherapeut|man|18-45|fysiotherapie
+15|Patiënt wordt snel vermoeid en heeft pijn        |0.80|b455|0|fysiotherapeut|vrouw|45-60|fysiotherapie
+output for: b455,0,fysiotherapeut,vrouw,18-40,operatie
+1|Patiënt meldt een aanzienlijke afname van de inspanningstolerantie sinds de operatie.|0.7|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+2|Patiënt kan geen activiteiten uitvoeren die staand of lopend moeten worden uitgevoerd.|0.9|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+3|De inspanningstolerantie van de patiënt is extreem laag en beperkt tot activiteiten in rust.|0.8|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+4|Patiënt ervaart ernstige vermoeidheid en kortademigheid bij de geringste fysieke inspanning.|0.6|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+5|Instructies voor lichamelijke activiteit moeten beginnen met liggende posities.|0.9|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+6|Alleen zittende of liggende activiteiten zijn vol te houden door de patiënt.|0.8|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+7|De patiënt klaagt over een gebrek aan energie en heeft problemen met dagelijkse taken zoals huishoudelijk werk.|0.7|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+8|Patiënt heeft lopen volledig vermijd vanwege het onvermogen om de nodige energie te genereren.|0.8|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+9|De hartslag van de patiënt blijft laag en de inspanningstolerantie is extreem beperkt.|0.6|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+10|Het is van vitaal belang om rekening te houden met de aanzienlijke afname van de inspanningstolerantie van de patiënt bij het bepalen van het niveau van aanbevolen fysieke activiteit.|0.9|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+11|Patiënt rapporteert bijzondere moeite te hebben met traplopen of simpele huishoudelijke taken uitvoeren.|0.8|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+12|Patiënt doet fysieke inspanningen alleen in extreme gevallen en praktisch altijd liggend.|0.7|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+13|De inspanningstolerantie is extreem laag waardoor de patiënt niet in staat is om fysieke taak zonder aanzienlijke moeite te voltooien.|0.6|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+14|Patiënt devette dat de fysieke inspanningen momenteel  extreem zwaar en vermoeiend zijn en acht deze taak niet zelfstandig uit te voeren.|0.8|b455|0|fysiotherapeut|vrouw|18-40|operatie 
+15|De inspanningstolerantie is ongekend laag en de patiënt rapporteert pas een fysiek gerelateerde taak uit te willen voeren als aanmeetbare verbetering is gedocumenteerd.|0.9|b455|0|fysiotherapeut|vrouw|18-40|operatie
+output for: b455,0,fysiotherapeut,man,18-40,operatie
+1| Lopen in spreekkamer niet mogelijk,alleen liggende oefeningen gedaan | 0.8 | b455 | 0 | Fysiotherapeut | man | 18-40 | artrose
+2| Patiënt kan alleen in bed blijven liggen tegenwoordig | 0.7 | b455 | 0 | Fysiotherapeut | vrouw | 18-40 | ME 
+3| De patiënt rapporteerde DUHRING Drang naar gravitationele beweging. Nieuwe oefeningen voorgesteld op bed of liggend. | 0.6 | b455 | 0 | Fysiotherapeut | vrouw | 41-65 | Dermatitis herpetiformis
+4| De patiënt kon alleen liggend oefeningen uitvoeren vanwege kortademigheid | 0.9 | b455 | 0 | Fysiotherapeut | man | 41-65 | COPD 
+5| Zitten tijdens een oefening was geen optie. Vandaag alleen geholpen liggen. | 0.7 | b455 | 0 | Fysiotherapeut | vrouw | 18-40 | Lupus 
+6| De patient had geen kracht om iets te doen terwijl hij rechtop staat. Hij is gewend om liggend te worden behandeld.| 0.8 | b455 | 0 | Fysiotherapeut | man | 65+ | Rugklachten
+7| Patiënt heeft onlangs spataders en bijbehorende pijn aangegeven en kan alleen liggend worden behandeld  | 0.9 | b455 | 0 | Fysiotherapeut | vrouw | 41-65 | spataderen 
+8| Patiënt kan geen staande activiteiten aan vanwege hartproblemen,liggende oefeningen gegeven. | 0.8 | b455 | 0 | Fysiotherapeut | man | 65+ | atriumfibrilleren 
+9| Actieve oefeningen vermeden vanwege onvermogen om op te staan ​​na de operatie. Alleen liggende oefeningen voor snel herstel. | 0.7 | b455 | 0 | Fysiotherapeut | man | 18-40 | hersteloperatie 
+10| Patiënt had een gebroken been; op bed blijven gedurende 4 weken van om medische redenen. Ondraaglijke pijn wanneer hij rechtop zit of staat | 0.9 | b455 | 0 | Fysiotherapeut | man | 18-40 | beenbreuk 
+11| Na de borstoperatie is alleen voorzichtig liggende training goedgekeurd om de genezing te garanderen | 0.8 | b455 | 0 | Fysiotherapeut | vrouw | 41-65 | borstkankeroperatie
+12| Patiënt heeft de hersenen operatief aangepakt,hoomenbeweging zeer laag. Inbedtraining om te voorkomen dat ze uit vorm raken | 0.9 | b455 | 0 | Fysiotherapeut | man | 65+ | hersenoperaties
+13| Patiënt was in een coma en heeft een aantal maanden op bed gelegen. Nu kunnen alleen liggende bewegingen worden gemaakt om weer kracht op te bouwen | 0.8 | b455 | 0 | Fysiotherapeut | vrouw | 18-40 | coma 
+14| Als ik vroeg om op te staan,zei de patiënt dat hij anesthesie-geïnduceerde pijn had door de operatie. Alleen lende activiteiten mogen worden uitgevoerd | 0.9 | b455 | 0 | Fysiotherapeut | man | 41-65 | Operatie pijn
+15| Liggend s pelde ik kleiduifschieten als een activiteit om armbewegingen te bestrijden na de medische ingreep van de bovenste ledematen | 0.7 | b455 | 0 | Fysiotherapeut | man | 41-65 | bovenste ledemaat operatie
+output for: b455,0,fysiotherapeut,vrouw,40-65,operatie
+1|Patiënt kan alleen in bed liggen en vertoont symptomen van vermoeidheid,confidence_score: 0.8|0|b455|0|fysiotherapeut|vrouw|40-65|operatie
+2|De patiënt kon tijdens de oefening slechts enkele minuten op de hometrainer rijden met een lage weerstand,confidence_score: 0.7|0|b455|0|fysiotherapeut|man|18-39|fysieke inactiviteit
+3|Patiënt kon slechts enkele trapjes beklimmen voordat hij moe werd,confidence_score: 0.9|0|b455|0|fysiotherapeut|vrouw|40-65|complicatie chirurgische ingreep
+4|De patiënt melde zich ziek van zijn werk wegens gevoelige vermoeidheid,confidence_score: 0.6|0|b455|0|fysiotherapeut|man|65+|pulmonaire diagnose
+"5|Patiënt meldde ""Ik voel me uitgeput na het doen van eenvoudige dagelijkse taken""",confidence_score: 0.75|0|b455|0|fysiotherapeut|vrouw|18-39|chronische ziekte
+6|Patiënt geeft aan te weinig kracht in zijn benen te hebben om te lopen zonder hulp,confidence_score: 0.8|0|b455|0|fysiotherapeut|man|40-65|beroerte
+7|Patiënt voelt zich vaak te moe om zijn dagelijkse bezigheden voort te zetten,confidence_score: 0.85|0|b455|0|fysiotherapeut|vrouw|18-39|auto-immuunziekte
+8|Patiënt werd uitgeput midden in een training en moest stoppen,nadat hij slechts een paar minuten had geëxerceerd,confidence_score: 0.7|0|b455|0|fysiotherapeut|man|18-39|krachtsport
+9|Ze voelt op sommige dagen haar ziekte meer en voelt dat al haar kracht haar verlaat,confidence_score: 0.9|0|b455|0|fysiotherapeut|vrouw|65+|artritis
+10|De patiënt vertoont piekerige ademhaling,rood aanlopende ogen en is bij minimale inspanning uitgeput,confidence_score: 0.8|0|b455|0|fysiotherapeut|man|40-65|astma
+11|Patiënt zegt in haar groei naar herstel,nog geen voldoening gekregen te hebben in het bewegen en haar benen voelen zwaar,confidence_score: 0.9|0|b455|0|fysiotherapeut|vrouw|40-65|complicatie na een heupoperatie
+12|Hij moest revalideren van de operatie zonder sport te beoefenen en kon slechts enkele minuten lopen voor zijn benen zwaar klaagden,confidence_score: 0.8|0|b455|0|fysiotherapeut|man|40-65|operatieschade
+13|Patiënt kan slechts enkele minuten douchen voordat vermoeidheid inzet,confidence_score: 0.7|0|b455|0|fysiotherapeut|vrouw|65+|roken
+14|Patiënt kon niet vooruit bij inspanning en was daar gauw van uitgeput na ee muuroefening van 10 tellen,confidence_score: 0.75|0|b455|0|fysiotherapeut|man|65+|persoonlijk leed
+15|Patiënt klaagt vermoeidheid nadat hij stoelen over heeft gereden over de roosters van de stoep van a-naar-b,op weg naar zijn werk,confidence_score: 0.7|0|b455|0|fysiotherapeut|vrouw|18-39|overgewicht
+output for: b455,0,fysiotherapeut,man,40-65,operatie
+1|De patiënt heeft extreem lage inspanningstolerantie en vertoont geen tekenen van verbetering |0.8|b455|0|fysiotherapeut|man|40-65|operatie
+2|De patiënt kan alleen liggende activiteiten fysiek volhouden |0.9|b455|0|fysiotherapeut|vrouw|18-39|reuma
+3|Het is niet mogelijk voor de patiënt om een lange tijd recht te staan of te wandelen |0.7|b455|0|fysiotherapeut|man|18-39|MS
+4|De inspanningstolerantie van de patiënt is extreem laag en er is geen verbetering merkbaar |0.85|b455|0|fysiotherapeut|vrouw|40-65|longfalen
+5|De patiënt kan alleen zeer korte afstanden lopen|0.9|b455|0|fysiotherapeut|man|40-65|hartfalen
+6|Fysieke activiteiten uitvoeren is zeer moeilijk en put de patiënt volledig uit |0.8|b455|0|fysiotherapeut|vrouw|65+|kanker
+7|De patiënt moet voortdurend rusten nadat hij zich inspant |0.95|b455|0|fysiotherapeut|man|65+|cerebrale parese
+8|Languit op bed liggen is het enige wat de patiënt fysiek kan verdragen |0.9|b455|0|fysiotherapeut|vrouw|40-65|reumatoïde artritis
+9|Geneigd om snel buiten adem te raken,zelfs bij weinig inspanning |0.85|b455|0|fysiotherapeut|man|18-39|astma
+10|De patiënt heeft uitgebreide hulp nodig bij fysieke activiteiten vanwege lage inspanningstolerantie |0.8|b455|0|fysiotherapeut|vrouw|65+|osteoartritis
+11|De patiënt heeft een totale beperking in fysieke activiteiten |0.9|b455|0|fysiotherapeut|man|18-39|hernia
+12|Bij pogingen om fysieke activiteit te verrichten treedt snel kortademigheid,vermoeidheid en zwakte op |0.95|b455|0|fysiotherapeut|vrouw|18-39|myopathie
+13|De patiënt kan nog slechts zeer beperkte fysieke activiteiten uitvoeren zonder een significante toename van symptomen |0.85|b455|0|fysiotherapeut|man|40-65|hartinfarct
+14|Liggen is de enige fysieke activiteit die comfortabel blijft voor de patiënt |0.9|b455|0|fysiotherapeut|vrouw|65+|hartklepproblemen
+15|Zware inspanning resulteert onmiddellijk in enorme kortademigheid bij de patiënt |0.8|b455|0|fysiotherapeut|man|65+|longontsteking
+output for: b455,0,fysiotherapeut,vrouw,65-80,operatie
+1|Patiënt vertoont extreem lage inspanningstolerantie,bedrust wordt sterk aanbevolen.|0.8|b455|0|fysiotherapeut|vrouw|65-80|operatie
+2|Liggende activiteiten kunnen nauwelijks fysiek volgehouden worden,patiënt vermijdt elke vorm van inspanning.|0.9|b455|0|fysiotherapeut|vrouw|65-80|operatie
+3|Volledige stoornis in inspanningstolerantie,patiënt kan alleen maar op bed blijven liggen.|0.7|b455|0|fysiotherapeut|vrouw|65-80|operatie
+4|Er kan geen enkele vorm van inspanning gedaan worden zonder de patiënt onmiddellijk in moeilijkheden te brengen.|0.6|b455|0|fysiotherapeut|vrouw|65-80|operatie
+5|Enkel liggende activiteiten worden getolereerd,elke beweging veroorzaakt echter veel pijn en ongemak.|0.8|b455|0|fysiotherapeut|vrouw|65-80|operatie
+6|De patiënt wordt enkel aangeraden om te rusten en elke inspanning te vermijden om verkeerde spoedprocedures te vermijden.|0.9|b455|0|fysiotherapeut|vrouw|65-80|operatie
+7|De patiënt heeft een extreem lage inspanningstolerantie,een kleine uitputting is genoeg om onmiddellijk vermoeidheid te veroorzaken.|0.7|b455|0|fysiotherapeut|vrouw|65-80|operatie
+8|De patiënt heeft een complete stoornis in inspanningstolerantie,rust is de enige optie.|0.8|b455|0|fysiotherapeut|vrouw|65-80|operatie
+9|Het vermogen van de patiënt om eenvoudige activiteiten uit te voeren is aanzienlijk beperkt.|0.9|b455|0|fysiotherapeut|vrouw|65-80|operatie
+10|De patiënt heeft een extreme beperking van de inspanningstolerantie,alle soorten fysieke activiteiten zijn verboden.|0.6|b455|0|fysiotherapeut|vrouw|65-80|operatie
+11|Zelfs de geringste fysieke activiteit zorgt al voor moeilijkheden en resulteert in rusten.|0.7|b455|0|fysiotherapeut|vrouw|65-80|operatie
+12|De inspanningstolerantie is veel lager dan normaal,de patiënt heeft reuze moeite om stoelliggende activiteiten vol te houden.|0.8|b455|0|fysiotherapeut|vrouw|65-80|operatie
+13|De capaciteit van de patiënt om activiteiten te reguleren is niet-functioneel door de inspanningsafhankelijke patroon.|0.9|b455|0|fysiotherapeut|vrouw|65-80|operatie
+14|Tijdens activiteiten krijgt de patiënt al snel last van kortademigheid en vermoeidheid,voldoende rust is noodzakelijk.|0.7|b455|0|fysiotherapeut|vrouw|65-80|operatie
+15|Patiënt heeft zeer lage inspanningstolerantie,bedlegerigheid is aangewezen.|0.8|b455|0|fysiotherapeut|vrouw|65-80|operatie
+output for: b455,0,fysiotherapeut,man,65-80,operatie
+1|De patiënt kan alleen liggende activiteiten verrichten.|0.9|b455|0|fysiotherapeut|man|65-80|operatie
+2|Inspannende activiteiten zijn niet haalbaar voor de patiënt.|0.8|b455|0|fysiotherapeut|man|65-80|operatie
+3|Patiënt is niet in staat fysieke inspanning te leveren.|0.75|b455|0|fysiotherapeut|man|65-80|operatie
+4|De patiënt heeft een extreem lage inspanningstolerantie en kan alleen in liggende positie activiteiten uitvoeren.|0.85|b455|0|fysiotherapeut|man|65-80|operatie
+5|Enkel activiteiten in staande positie worden door de patiënt ervaren als vermoeiend.|0.7|b455|0|fysiotherapeut|man|65-80|operatie
+6|Patiënt kan slechts zittend rusten en liggende activiteiten verrichten.|0.8|b455|0|fysiotherapeut|man|65-80|operatie
+7|De patiënt kan niet langdurig rechtopstaan.|0.75|b455|0|fysiotherapeut|man|65-80|operatie
+8|Alle inspannende activiteiten zijn buiten bereik van de patiënt.|0.85|b455|0|fysiotherapeut|man|65-80|operatie
+9|De inspanningstolerantie van de patiënt is extreem laag.|0.8|b455|0|fysiotherapeut|man|65-80|operatie
+10|De patiënt kan geen fysieke inspanning leveren.|0.9|b455|0|fysiotherapeut|man|65-80|operatie
+11|Patiënt kan alleen in bed blijven.|0.7|b455|0|fysiotherapeut|man|65-80|operatie
+12|Activiteiten vorderen slechts in liggende of zittende positie.|0.75|b455|0|fysiotherapeut|man|65-80|operatie
+13|Bij elke inspanning wordt de patiënt moe.|0.8|b455|0|fysiotherapeut|man|65-80|operatie
+14|Alle staande activiteiten zijn te vermoeiend voor de patiënt.|0.85|b455|0|fysiotherapeut|man|65-80|operatie
+15|De patiënt vereist voornamelijk rust.|0.8|b455|0|fysiotherapeut|man|65-80|operatie
+output for: b455,0,fysiotherapeut,vrouw,80 up,operatie
+1|Patiente kan alleen liggende activiteiten verdragen.|0.9|b455|0|fysiotherapeut|vrouw|80 up|operatie
+2|Activiteiten die een staande of zittende houding vereisen,zijn niet mogelijk.|0.8|b455|0|fysiotherapeut|man|60 up|COPD
+3|Patiënt heeft aanzienlijke moeite om te bewegen,zelfs in liggende positie.|0.7|b455|0|fysiotherapeut|vrouw|18-40|Posttraumatische dystrofie
+4|Zelfs kortdurende activiteit zorgt voor ernstige vermoeidheid bij patiënt.|0.8|b455|0|fysiotherapeut|man|40-60|Myocardinfarct
+5|Patiënt kan niet meer dan tien minuten lopen zonder zich uitgeput te voelen.|0.9|b455|0|fysiotherapeut|vrouw|18-40|Ziekte van Lyme
+6|Alleen huishoudelijke taken met minimale inspanning zijn mogelijk.|0.8|b455|0|fysiotherapeut|man|80 up|Diabetes Type 2
+7|Lichte activiteiten,zoals wandelen binnen huis zijn mogelijk.|0.6|b455|0|fysiotherapeut|man|60 up|Herseninfract
+8|Patiënt kan alleen zittende activiteiten doen.|0.7|b455|0|fysiotherapeut|vrouw|18-40|Obesitas
+9|Zelfs lichte lichamelijke inspanning wordt niet verdragen door patiënt.|0.8|b455|0|fysiotherapeut|man|40-60|Chronische vermoeidheidssyndroom
+10|Ernstige kortademigheid beperkt patiënt in activiteiten.|0.9|b455|0|fysiotherapeut|man|40-60|Longfibrose
+11|Patiënt vermijdt elke fysieke activiteit,omdat dit veel pijn veroorzaakt.|0.7|b455|0|fysiotherapeut|vrouw|40-60|Reumatoïde artritis
+12|Activiteiten worden alleen op liggende toestand verdragen door de patiënt.|0.8|b455|0|fysiotherapeut|man|40-60|Chronische obstructieve longziekte (COPD)
+13|Enige spanning of inspanning veroorzaakt onmiddellijk ademhalingsproblemen.|0.9|b455|0|fysiotherapeut|vrouw|60 up|Astma
+14|Patiënt kan alleen rechtop zitten of lopen in korte perioden,voordat er een pauze nodig is.|0.8|b455|0|fysiotherapeut|vrouw|18-40|Multiple sclerose
+15|Alle activiteiten moeten op een langzame,geleidelijke en indien mogelijk passieve manier worden gedaan door patiënt.|0.7|b455|0|fysiotherapeut|man|40-60|Rheumatoïde artritis.
+output for: b455,0,fysiotherapeut,man,80 up,operatie
+1|Kan alleen liggend activiteiten volhouden.|0.8|b455|0|fysiotherapeut|man|80 up|operatie
+2|Niet in staat om naar toilet te gaan zonder hulp.|0.6|b455|0|fysiotherapeut|vrouw|50-64|spierziekte
+3|Special til apparatuur nodig bij transfers,zoals uit bed of in rolstoel.|0.9|b455|0|fysiotherapeut|man|65-79|spinal cord injury
+4|Er is continu zuurstoftherapie vereist bij activiteiten. |0.7|b455|0|fysiotherapeut|vrouw|80 up|milde tot ernstige COPD 
+5| Nauwelijks in staat om zichzelf aan te kleden of te wassen.|0.85|b455|0|fysiotherapeut|vrouw|50-64|ALS 
+6| Kan alleen staande activiteiten voor een korte tijd uitvoeren. |0.75|b455|0|fysiotherapeut|man|50-64|Lage rugpijn door hernia
+7|Ontbreken van armen vereist hulp voor elke activiteit.|0.95|b455|0|fysiotherapeut|vrouw|18-34|genetische aandoening
+8|Constante beademing vereist bij het uitvoeren van enige activiteit.|0.85|b455|0|fysiotherapeut|man|50-64|spierdystrofie
+9|In staande positie hebben patiënten krukken nodig om in balans te blijven.|0.8|b455|0|fysiotherapeut|vrouw|35-49|Ms 
+10|Nooit in staat om enige vorm van activiteiten uit te voeten.|0.9|b455|0|fysiotherapeut|man|65-79|Slaapapneu 
+11|Alleen passief bewegen mogelijk tijdens PT-sessies.|0.85|b455|0|fysiotherapeut|vrouw|80 up|reumatoïde artritis 
+12|Risico op vallen tijdens staande activiteiten zonder hulp.|0.7|b455|0|fysiotherapeut|man|35-49|post-traumatische afwijkingen in de knie  
+13|Heeft hulp en ondersteuning nodig bij liggende activiteiten zoals draaien.|0.8|b455|0|fysiotherapeut|vrouw|50-64|fibromyalgie  
+14|Wartlopen of traplopen zijn onmogelijk.|0.9|b455|0|fysiotherapeut|man|65-79|poststroke 
+15| Kan niet opstaan of liggen zonder hulp.|0.8|b455|0|fysiotherapeut|man|80 up|osteoporose
