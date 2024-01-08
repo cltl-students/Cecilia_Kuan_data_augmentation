@@ -8,11 +8,12 @@ Supervisor: Dr. Piek Vossen
 
 Description
 -------------
+**Overview**\
 This is a part of the project [A-PROOF](https://cltl.github.io/a-proof-project), an ongoing collaboration between [AUMC](https://www.amsterdamumc.org/en/about/organization/about-amsterdam-umc.htm) and [CLTL](http://www.cltl.nl/).
 
 This thesis studies the effect of data augmentation and data sampling on improving the performance of a system classifying patients' functioning using EHRs. 
 
-**Data and Class Labels**
+**Data and Class Labels**\
 Data sets used in this thesis include 3 real data sets from previous researches, and 1 synthetic data set generated for this thesis. Previous researches use 9 class labels; 9 ICF categories are used for the A-RPOOF porject.
 
 In this thesis, a dual-classifiers approach is used to include the 10th class, "None", to represent negative samples, as shown in the last row of the table below:
@@ -32,7 +33,7 @@ b152 | Emotional functions | STM
 
 The real data sets consist of clinical notes from Electronic Health Records (EHRs) in Dutch. Due to privacy constraints, these data cannot be released. Synthetic data set can be found in the `data` folder.
 
-**Experiments and Evaluations**
+**Experiments and Evaluations**\
 Experiments are conducted using training sets with different sampling of data, and different fine-tuning model; performance are evaluated using Precision, Recall, and F1 Scores.
 
 **Models**
